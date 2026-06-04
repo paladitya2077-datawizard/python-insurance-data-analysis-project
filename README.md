@@ -1,8 +1,10 @@
-# Data Analyst Capstone Project: Restaurant Marketing Analytics
+# Python: Insurance Data Analysis Project
 
 ## 📊 Project Overview 
 * **Goal:** A insurance agency wants to analyze the data to research healthcare premium costs and to analyze the different body types and the environment that affect the premium. The disease's effect or the cost of treatment differs depending on the circumstances.
 * **Dataset:** This project heps to create a model that will predict the cost of medical insurance based on various input features across 1300+ rows of insurance data
+
+---
 
 ## 🛠️ Tech Stack
 The following tools have been used to analyse the data
@@ -27,4 +29,4 @@ The following tools have been used to analyse the data
 
 ## How to Explore this Project
 1. 📂 **[View Jupyter Notebook](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/blob/ab9849c53c536ed74f305ec94d8f504f64bb676b/notebooks/Aditya%20Pal%20Insurance%20Data%20Analysis%20Project.ipynb):** See the step-by-step cleaning, data conversion, and visualization code.
-3. 🗃️ **[Browse Raw Source Data](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/tree/ab9849c53c536ed74f305ec94d8f504f64bb676b/data):** Access the original source data sheets.
+2. 🗃️ **[Browse Raw Source Data](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/tree/ab9849c53c536ed74f305ec94d8f504f64bb676b/data):** Access the original source data sheets.
