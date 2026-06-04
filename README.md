@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview 
 * **Goal:** To analyze how different lifestyle factors, body metrics (BMI), and environmental conditions impact healthcare premium costs for ABC Insurance.
-* **Dataset:** This project heps to create a model that will help to predict the cost of medical insurance based on various input features across 1300+ rows of insurance data.
+* **Dataset:** This project helps to create a model that will help to predict the cost of medical insurance based on various input features across 1300+ rows of insurance data.
 
 ---
 
@@ -31,7 +31,8 @@ The following tools have been used to analyse the data
 ## 🖼️ Analytical Insight Preview
 Below is a line plot isolating how smoking status increases premium changes across different age demographics:
 
-![Mean Charges by Age Group Group](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/blob/43818a9fe9568a5ee4cbdb699cdce16c5677b707/visuals/Screenshot%202026-06-04%20184518.png)
+![Mean Charges by Age Group Group](./visuals/Screenshot%202026-06-04%20184518.png)
+
 ---
 
 ## How to Explore this Project
