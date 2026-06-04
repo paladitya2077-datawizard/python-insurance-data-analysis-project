@@ -26,5 +26,5 @@ The following tools have been used to analyse the data
 ---
 
 ## How to Explore this Project
-1. 📂 **[View Jupyter Notebook](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/blob/999d0208822657f4eea6a07dc7ccd505e207b014/notebooks/Aditya%20Pal%20Marketing%20Capstone%20Project.ipynb):** See the step-by-step cleaning, data merging, and currency conversion code.
-3. 🗃️ **[Browse Raw Source Data](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project/tree/5451ba84777ce3f02f8b6084504e963669cd666a/data):** Access the original source data sheets.
+1. 📂 **[View Jupyter Notebook](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/blob/ab9849c53c536ed74f305ec94d8f504f64bb676b/notebooks/Aditya%20Pal%20Insurance%20Data%20Analysis%20Project.ipynb):** See the step-by-step cleaning, data conversion, and visualization code.
+3. 🗃️ **[Browse Raw Source Data](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project/tree/ab9849c53c536ed74f305ec94d8f504f64bb676b/data):** Access the original source data sheets.
